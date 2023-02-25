@@ -1,0 +1,1 @@
+Mkaing two files to see how to add in staging are and then commit to repository
